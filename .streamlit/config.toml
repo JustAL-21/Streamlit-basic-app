@@ -1,0 +1,20 @@
+[theme]
+primaryColor="#00d4ff"
+backgroundColor="#121826"
+secondaryBackgroundColor="#1b263b"
+textColor="#e0e0e0"
+font="sans serif"
+
+[[theme.fontFaces]]
+family = "Poppins"
+url = "https://gstatic.com"
+weight = 400
+
+[[theme.fontFaces]]
+family = "Poppins"
+url = "https://gstatic.com"
+weight = 700
+
+[client]
+showErrorDetails = false
+toolbarMode="minimal"
